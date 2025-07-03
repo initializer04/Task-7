@@ -18,8 +18,7 @@ A **console-based Java application** that performs **CRUD (Create, Read, Update,
 - [VS Code Setup](#-vs-code-setup)
 - [How to Run](#-how-to-run)
 - [Sample Demo](#-sample-demo)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
